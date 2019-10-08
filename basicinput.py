@@ -1,2 +1,2 @@
-name = input('What is your name?\n')
-print ('Hi, %s.' % name)
+age = input('What is your age?\n')
+print ('Hi, %s.' % age)
