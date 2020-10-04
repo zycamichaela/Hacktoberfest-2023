@@ -17,7 +17,7 @@ Tangerang, Indonesia
 
 ### Projects
 
-- Tidak ada
+- 
 
 ### Profile Link
 
