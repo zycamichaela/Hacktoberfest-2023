@@ -1,4 +1,4 @@
-
+#contoh
 // LANGUAGE: Javascript
 // ENV: Node.js
 // AUTHOR: Zyca Michaela
