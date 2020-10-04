@@ -90,8 +90,8 @@ Tambahkan `hello_world_yourusername.xx` script ke `scripts` directory dalam baha
 ```Javascript
 // LANGUAGE: Javascript
 // ENV: Node.js
-// AUTHOR: Alice Chuang
-// GITHUB: https://github.com/AliceWonderland
+// AUTHOR: Zyca Michaela
+// GITHUB: https://github.com/zycamichaela
 
 console.log('Hello, World!');
 ```
