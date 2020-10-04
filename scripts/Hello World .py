@@ -1,4 +1,5 @@
 #Lang Python2
+#ini contoh
 #env Interactive as well as script
 #aut zycamichaela
 #github https://github.com/mfaisaal
