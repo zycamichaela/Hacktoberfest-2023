@@ -1,10 +1,8 @@
 #### 💻WELCOME TO HACKTOBER FEST 2020!💻
 #
-#
-
 # Hello Teman - teman,
-## What is Hacktoberfest?
-A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](https://hacktoberfest.digitalocean.com/) and [GitHub](https://github.com/blog/2433-celebrate-open-source-this-october-with-hacktoberfest) to get people involved in [Open Source](https://github.com/open-source). Create your very first pull request to any public repository on GitHub and contribute to the open source developer community.
+## Apa itu Hacktoberfest?
+Hackotberfest adalah gerakan untuk berkontribusi dan mendukung proyek opensource [Open Source](https://github.com/open-source). yang di dukung oleh [Digital Ocean](https://hacktoberfest.digitalocean.com/) dan [GitHub](https://github.com/blog/2433-celebrate-open-source-this-october-with-hacktoberfest) setiap bulan October. Create your very first pull request to any public repository on GitHub and contribute to the open source developer community.
 
 [https://hacktoberfest.digitalocean.com/](https://hacktoberfest.digitalocean.com/)
 
