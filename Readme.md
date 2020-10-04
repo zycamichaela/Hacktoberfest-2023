@@ -1,4 +1,4 @@
-#### 💻WELCOME TO HACKTOBER FEST 2020!💻
+#### 💻WELCOME TO HACKTOBERFEST 2020!💻
 #
 # Hello Teman - teman,
 ## Apa itu Hacktoberfest?
@@ -23,14 +23,14 @@ Pilih satu atau ketiganya juga boleh, buat pull request untuk pekerjaanmu dan tu
 git clone https://github.com/your-username/hacktoberfest.git
 ```
 
-* Create a branch
+* Membuat branch
 
 ```markdown
 git checkout -b branch-name
 ```
 
-* Make your changes (choose from any task below)
-* Commit and push
+* Lakukan perubahan pada Task (Silahakan pilih tugas apapun yang dibawah!)
+* Commit dan push
 
 ```markdown
 git add .
