@@ -1,6 +1,6 @@
-#### 💻WELCOME TO HACKTOBERFEST 2020!💻
+# 💻WELCOME TO HACKTOBERFEST 2020!💻
 #
-# Hello Teman - teman,
+## Halo Teman - teman! ,
 ## Apa itu Hacktoberfest?
 Hacktoberfest adalah gerakan untuk berkontribusi dan mendukung proyek [Open Source](https://github.com/open-source) yang di dukung oleh [Digital Ocean](https://hacktoberfest.digitalocean.com/) dan [GitHub](https://github.com/blog/2433-celebrate-open-source-this-october-with-hacktoberfest). Diselenggarakan di bulan October setiap tahunnya. Buatlah pull request pertama pada setiap public repository di GitHub untuk berkontribusi di open source developer community.
 
@@ -85,7 +85,7 @@ Sekolahmu
 ```
 
 ### 3. Buatlah `Hello, World!` Script
-Tambahkan `hello_world_yourusername.xx` script ke `scripts` directory dalam bahasa pemograman pilihanmu! seperti contih:
+Tambahkan `hello_world_yourusername.xx` script ke `scripts` directory dalam bahasa pemograman pilihanmu! seperti contoh:
 
 ```Javascript
 // LANGUAGE: Javascript
@@ -100,6 +100,6 @@ berikan nama file seperti ini `hello_world_yourusername.xx`. atau, `hello_world_
 
 Jangan lupa menyertakan Comment Seperti diatas yang terlihat diatas. Jangan ragu untuk memberikan informasi tambahan pada bahasa pemograman yang sudah dipilih didalam Comment! Jangan lupa likenya.
 
-# Terima Kasih dan Jangan ragu untuk bertanya!.
+## Terima Kasih dan Jangan ragu untuk bertanya!
 
-## Happy Hacktoberfest
+# Happy Hacktoberfest
