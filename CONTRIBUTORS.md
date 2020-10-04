@@ -1,7 +1,7 @@
 #### Name: Zyca
  - Place: Semarang, Indonesia
  - Bio: Networking Engineering. - 
- - GitHub: [mfaisaal](https://github.com/mfaisaal)
+ - GitHub: [zyca](https://github.com/zycamichaela)
 
 #### Name: Chad P. Wilson
  - Place: Tangerang, Indonesia
