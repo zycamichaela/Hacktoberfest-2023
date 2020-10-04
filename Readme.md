@@ -96,7 +96,7 @@ Tambahkan `hello_world_yourusername.xx` script ke `scripts` directory dalam baha
 console.log('Hello, World!');
 ```
 
-berikan nama file seperti ini `hello_world_yourusername.xx`. atau, `hello_world_alicewonderland.js` bisa juga seperti `hello_world_alicewonderland.py`.
+berikan nama file seperti ini `hello_world_yourusername.xx`. atau, `hello_world_ceeeeebbbbb.js` bisa juga seperti `hello_world_topDAD.py`.
 
 Jangan lupa menyertakan Comment Seperti diatas yang terlihat diatas. Jangan ragu untuk memberikan informasi tambahan pada bahasa pemograman yang sudah dipilih didalam Comment! Jangan lupa likenya.
 
