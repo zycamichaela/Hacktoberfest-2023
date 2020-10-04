@@ -2,7 +2,7 @@
 #
 ## Halo Teman - teman! ,
 ## Apa itu Hacktoberfest?
-Hacktoberfest adalah gerakan untuk berkontribusi dan mendukung proyek [Open Source](https://github.com/open-source) yang di dukung oleh [Digital Ocean](https://hacktoberfest.digitalocean.com/) dan [GitHub](https://github.com/blog/2433-celebrate-open-source-this-october-with-hacktoberfest). Diselenggarakan di bulan October setiap tahunnya. Buatlah pull request pertama pada setiap public repository di GitHub untuk berkontribusi di open source developer community.
+Hacktoberfest adalah gerakan untuk berkontribusi dan mendukung proyek [Open Source](https://github.com/open-source) yang di dukung oleh [Digital Ocean](https://hacktoberfest.digitalocean.com/) dan [GitHub](https://github.com/blog/2433-celebrate-open-source-this-october-with-hacktoberfest). Diselenggarakan di bulan October setiap tahunnya. Untuk mengikutinya Buatlah pull request pertama pada setiap public repository di GitHub untuk berkontribusi di open source developer community.
 
 [https://hacktoberfest.digitalocean.com/](https://hacktoberfest.digitalocean.com/)
 
