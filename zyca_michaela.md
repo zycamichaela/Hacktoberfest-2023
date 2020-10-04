@@ -5,7 +5,7 @@ Semarang, Jawa tengah, Indonesia
 
 ### Academics
 
-- On Collage
+- Masih Kuliah kok
 
 ### Interests
 
