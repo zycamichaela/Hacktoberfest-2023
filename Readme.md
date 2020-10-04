@@ -29,7 +29,7 @@ git clone https://github.com/your-username/hacktoberfest.git
 git checkout -b branch-name
 ```
 
-* Lakukan perubahan pada Task (Silahakan pilih tugas apapun yang dibawah!)
+* Lakukan perubahan pada Task (Silahkan pilih dan selesaikan task yang ada dibawah!)
 * Commit dan push
 
 ```markdown
@@ -47,29 +47,29 @@ git push origin branch-name
 Tambahkan namamu pada `CONTRIBUTORS.md` seperti contoh dibawah:
 
 ```markdown
-#### Name: [YOUR NAME](GitHub link)
-- Place: City, State, Country
-- Bio: Who are you?
+#### Name: [Solikhun](GitHub link)
+- Place: Salatiga, Jawa Tengah, Indonesia
+- Bio: Siapa anda?
 - GitHub: [GitHub account name](GitHub link)
 ```
 
-### 2. Add a profile page
-Add a `Your_Name.md` file to the `profiles` directory. Use any combination of content and Markdown you'd like. Here is an example:
+### 2. Tambahkan profile page
+Tambahkan `Your_Name.md` file ke `profiles` directory. seperti contoh dibawah ini:
 
 ```markdown
 # Your Name
 
 ### Location
 
-Your City/Country
+Kotamu/Indonesia
 
 ### Academics
 
-Your School
+Sekolahmu
 
 ### Interests
 
-- Some Things You Like
+- Play some DoTA
 
 ### Development
 
@@ -77,15 +77,15 @@ Your School
 
 ### Projects
 
-- [My Project](GitHub Link) Short Description
+- [My Project](GitHub Link) Deskripsi singkat
 
 ### Profile Link
 
-[Your Name](GitHub Link)
+[Namamu](GitHub Link)
 ```
 
-### 3. Create a `Hello, World!` Script
-Add a `hello_world_yourusername.xx` script to the `scripts` directory in any language of your choice! Here is an example:
+### 3. Buatlah `Hello, World!` Script
+Tambahkan `hello_world_yourusername.xx` script ke `scripts` directory dalam bahasa pemograman pilihanmu! seperti contih:
 
 ```Javascript
 // LANGUAGE: Javascript
@@ -96,6 +96,10 @@ Add a `hello_world_yourusername.xx` script to the `scripts` directory in any lan
 console.log('Hello, World!');
 ```
 
-Name the file `hello_world_yourusername.xx`. e.g., `hello_world_alicewonderland.js` or `hello_world_alicewonderland.py`.
+berikan nama file seperti ini `hello_world_yourusername.xx`. atau, `hello_world_alicewonderland.js` bisa juga seperti `hello_world_alicewonderland.py`.
 
-Don't forget to include the comments as seen above. Feel free to include additional information about the language you choose in your comments too! Like a link to a helpful introduction or tutorial. 
+Jangan lupa menyertakan Comment Seperti diatas yang terlihat diatas. Jangan ragu untuk memberikan informasi tambahan pada bahasa pemograman yang sudah dipilih didalam Comment! Jangan lupa likenya.
+
+# Terima Kasih dan Jangan ragu untuk bertanya!.
+
+## Happy Hacktoberfest
