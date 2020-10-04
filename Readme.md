@@ -38,13 +38,13 @@ git commit -m 'Commit message'
 git push origin branch-name
 ```
 
-* Create a new pull request from your forked repository (Click the `New Pull Request` button located at the top of your repo)
-* Wait for your PR review and merge approval!
-* __Star this repository__ if you had fun!
+* Buat pull request baru dari repository yang telah di fork tadi. (Klik `New Pull Request` lokasi buttonnya diatas repo)
+* Tunggu untuk PR review dan merge approval!
+* __Star this repository__ 👌🏻
 
-## Choose from these tasks
-### 1. Add your name
-Add your name to the `CONTRIBUTORS.md` file using the below convention:
+## Pilih dari task dibawah ini:
+### 1. Tambahkan Namamu
+Tambahkan namamu pada `CONTRIBUTORS.md` seperti contoh dibawah:
 
 ```markdown
 #### Name: [YOUR NAME](GitHub link)
