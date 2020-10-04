@@ -1,4 +1,4 @@
-# Zyca Michaela
+# Zyca Michaela (Ini contoh)
 ### Location
 
 Semarang, Jawa tengah, Indonesia
