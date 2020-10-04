@@ -18,8 +18,6 @@ def format_contributor(contrib):
     return contrib
 
 
-# Remove trailing whitespaces
-# Make the file ready for sorting
 with open('CONTRIBUTORS.md', 'r+') as file:
     new_file_data = []
     for line in file.readlines():
@@ -33,8 +31,6 @@ with open('CONTRIBUTORS.md', 'r+') as file:
     file.writelines(new_file_data)
 
 
-# Sorts the list of contributors and saves to file
-# The real thing happens here.
 with open('CONTRIBUTORS.md', 'r+') as file:
     contributors = [contributor.strip() for contributor in file.read().split('####')
                                 if contributor]
