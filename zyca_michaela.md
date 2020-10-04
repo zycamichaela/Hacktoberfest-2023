@@ -1,11 +1,11 @@
-# Zyca Michaele
+# Zyca Michaela
 ### Location
 
 Semarang, Jawa tengah, Indonesia
 
 ### Academics
 
--
+- On Collage
 
 ### Interests
 
