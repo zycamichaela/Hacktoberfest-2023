@@ -6,18 +6,18 @@ Hacktoberfest adalah gerakan untuk berkontribusi dan mendukung proyek [Open Sour
 
 [https://hacktoberfest.digitalocean.com/](https://hacktoberfest.digitalocean.com/)
 
-## How to contribute to this project
-Here are 3 quick and painless ways to contribute to this project:
+## Cara Berkontribusi Pada Project ini
+How to:
 
-* Add your name to the `CONTRIBUTORS.md` file
-* Add a profile page to the `profiles` directory
-* Create a simple "Hello, World" script in a language of your choice
+* Tambahkan nama di `CONTRIBUTORS.md` file
+* Tambahkan juga profile page di `profiles` directory
+* dan buat simple "Hello, World" script di bahasa pemograman yang dipahami
 
-Choose one or all 3, make a pull request for your work and wait for it to be merged!
+Pilih satu atau ketiganya juga boleh, buat pull request untuk pekerjaanmu dan tunggu untuk di merged!
 
-## Getting started
-* Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
-* Clone your fork down to your local machine
+## Let's Started
+* Fork this repository (Klik Fork Button di pojok kanan atas, lalu klik Profile Imagemu.)
+* Clone forknya pada local machine 
 
 ```markdown
 git clone https://github.com/your-username/hacktoberfest.git
