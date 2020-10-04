@@ -20,7 +20,7 @@ Pilih dan Selesaikan tasknya, buat pull request untuk pekerjaanmu dan tunggu unt
 * Lalu, Clone forknya pada masing - masing local machine
 
 ```markdown
-git clone https://github.com/your-username/hacktoberfest.git
+git clone https://github.com/your-username/Hacktoberfest-2020.git
 ```
 
 * Membuat branch
