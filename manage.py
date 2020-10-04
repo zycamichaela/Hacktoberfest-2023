@@ -1,5 +1,6 @@
+"""
 Script untuk memanage CONTRIBUTOR.md FILE
-
+"""
 import re
 
 def format_contributor(contrib):
