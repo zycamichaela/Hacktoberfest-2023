@@ -13,11 +13,11 @@ How to:
 * Tambahkan juga profile page di `profiles` directory
 * dan buat simple "Hello, World" script dengan bahasa pemograman yang dipahami
 
-Selesaikan ketiga tasknya, buat pull request untuk pekerjaanmu dan tunggu untuk di merged!
+Pilih dan Selesaikan tasknya, buat pull request untuk pekerjaanmu dan tunggu untuk di merged!
 
 ## Let's Started
-* Fork this repository (Klik Fork Button di pojok kanan atas, lalu klik Profile Imagemu.)
-* Clone forknya pada local machine 
+* Pertama, Jalankan Fork repository dulu (Klik Fork Button di pojok kanan atas, lalu klik Profile Imagemu.)
+* Lalu, Clone forknya pada masing - masing local machine
 
 ```markdown
 git clone https://github.com/your-username/hacktoberfest.git
