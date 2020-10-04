@@ -11,9 +11,9 @@ How to:
 
 * Tambahkan nama di `CONTRIBUTORS.md` file
 * Tambahkan juga profile page di `profiles` directory
-* dan buat simple "Hello, World" script di bahasa pemograman yang dipahami
+* dan buat simple "Hello, World" script dengan bahasa pemograman yang dipahami
 
-Pilih satu atau ketiganya juga boleh, buat pull request untuk pekerjaanmu dan tunggu untuk di merged!
+Selesaikan ketiga tasknya, buat pull request untuk pekerjaanmu dan tunggu untuk di merged!
 
 ## Let's Started
 * Fork this repository (Klik Fork Button di pojok kanan atas, lalu klik Profile Imagemu.)
