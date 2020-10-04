@@ -34,7 +34,7 @@ git checkout -b branch-name
 
 ```markdown
 git add .
-git commit -m 'Commit message'
+git commit -m 'Add it "hacktoberfest"'
 git push origin branch-name
 ```
 
