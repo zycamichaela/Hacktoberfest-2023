@@ -65,7 +65,7 @@ Kotamu/Indonesia
 
 ### Academics
 
-Sekolahmu
+Akademi yang dijalani sekarang 
 
 ### Interests
 
