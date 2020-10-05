@@ -25,6 +25,12 @@
  - Bio: Developer. -
  - GitHub: [kankuu](https://github.com/kankuu)
 
+ 
+#### Name: Mahdi
+ - Place: Bekasi, Indonesia
+ - Bio: Firmware Egineer and Student
+ - GitHub: [oracl4](https://github.com/oracl4/)
+
 #### Name: Agung Budi Miantoro
  - Place: Indonesia, Indonesia
  - Bio: College Student. -
@@ -34,3 +40,4 @@
  - Place: Semarang, Indonesia
  - Bio: IT Engineering. -
  - GitHub: [niya](https://github.com/alhambraniya)
+
