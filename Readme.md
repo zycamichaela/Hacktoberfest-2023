@@ -26,6 +26,7 @@ git clone https://github.com/your-username/Hacktoberfest-2020.git
 * Membuat branch
 
 ```markdown
+Change directory ke Hacktoberfest-2020
 git checkout -b branch-name
 ```
 
