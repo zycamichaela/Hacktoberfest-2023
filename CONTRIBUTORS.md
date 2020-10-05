@@ -8,12 +8,10 @@
  - Bio: Junior Frontend Devs. - 
  - GitHub: [syouryuumaru](https://github.com/syouryuumaru)
 
-
  #### Name: Heru Hermawan
  - Place: Bekasi, Indonesia
  - Bio: Solution & System Architect who code
  - GitHub: [iamheru](https://github.com/iamheru)
-
 
 #### Name: City Hunter
  - Place: Semarang, Indonesia
@@ -25,7 +23,11 @@
  - Bio: Developer. -
  - GitHub: [kankuu](https://github.com/kankuu)
 
- 
+#### Name: Ricky V
+- Place: Colomadu, Jawa Tengah, Indonesia.
+- Bio: Student in SMKN 5 Surakarta.
+- GitHub: [rickyricko302(https://github.com/rickyricko302)
+
 #### Name: Mahdi
  - Place: Bekasi, Indonesia
  - Bio: Firmware Egineer and Student
