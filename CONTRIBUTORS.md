@@ -15,7 +15,7 @@
  - GitHub: [iamheru](https://github.com/iamheru)
 
 
-#### Name: Hafiyan
+#### Name: City Hunter
  - Place: Semarang, Indonesia
  - Bio: Networking Engineering. - 
  - GitHub: [cityhunter](https://github.com/cityhunterzinu)
@@ -25,3 +25,7 @@
  - Bio: Developer. -
  - GitHub: [kankuu](https://github.com/kankuu)
  
+ #### Name: Niya
+ - Place: Semarang, Indonesia
+ - Bio: IT Engineering. -
+ - GitHub: [niya](https://github.com/alhambraniya)
