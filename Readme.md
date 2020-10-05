@@ -26,23 +26,12 @@ git clone https://github.com/your-username/Hacktoberfest-2020.git
 * Membuat branch
 
 ```markdown
+Change directory ke Hacktoberfest-2020
 git checkout -b branch-name
 ```
 
 * Lakukan perubahan pada Task (Silahkan pilih dan selesaikan task yang ada dibawah!)
-* Commit dan push
-
-```markdown
-git add .
-git commit -m 'Add it "hacktoberfest"'
-git push origin branch-name
-```
-
-* Buat pull request baru dari repository yang telah di fork tadi. (Klik `New Pull Request` lokasi buttonnya diatas repo)
-* Tunggu untuk PR review dan merge approval!
-* __Star this repository__ 👌🏻
-
-## Pilih dari task dibawah ini:
+## Selesaikan dari task dibawah ini:
 ### 1. Tambahkan Namamu
 Tambahkan namamu pada `CONTRIBUTORS.md` seperti contoh dibawah:
 
@@ -97,6 +86,19 @@ console.log('Hello, World!');
 ```
 
 berikan nama file seperti ini `hello_world_yourusername.xx`. atau, `hello_world_ceeeeebbbbb.js` bisa juga seperti `hello_world_topDAD.py`.
+
+* Commit dan push
+
+```markdown
+git add .
+git commit -m 'Add it "hacktoberfest"'
+git push origin branch-name
+```
+
+* Buat pull request baru dari repository yang telah di fork tadi. (Klik `New Pull Request` lokasi buttonnya diatas repo)
+* Tunggu untuk PR review dan merge approval!
+* __Star this repository__ 👌🏻
+
 
 Jangan lupa menyertakan Comment Seperti diatas yang terlihat diatas. Jangan ragu untuk memberikan informasi tambahan pada bahasa pemograman yang sudah dipilih didalam Comment! Jangan lupa likenya.
 

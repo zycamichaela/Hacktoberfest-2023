@@ -8,7 +8,14 @@
  - Bio: Junior Frontend Devs. - 
  - GitHub: [syouryuumaru](https://github.com/syouryuumaru)
 
+
  #### Name: Heru Hermawan
  - Place: Bekasi, Indonesia
  - Bio: Solution & System Architect who code
  - GitHub: [iamheru](https://github.com/iamheru)
+
+
+#### Name: City Hunter
+ - Place: Semarang, Indonesia
+ - Bio: Networking Engineering. - 
+ - GitHub: [cityhunter](https://github.com/cityhunterzinu)
