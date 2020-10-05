@@ -25,3 +25,7 @@
  - Bio: Developer. -
  - GitHub: [kankuu](https://github.com/kankuu)
  
+#### Name: Agung Budi Miantoro
+ - Place: Indonesia, Indonesia
+ - Bio: College Student. -
+ - GitHub: [agungbudimiantoro](https://github.com/agungbudimiantoro)
