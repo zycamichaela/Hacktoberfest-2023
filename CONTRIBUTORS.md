@@ -25,3 +25,7 @@
  - Bio: Developer. -
  - GitHub: [kankuu](https://github.com/kankuu)
  
+#### Name: Ricky V
+- Place: Colomadu, Jawa Tengah, Indonesia.
+- Bio: Student in SMKN 5 Surakarta.
+- GitHub: [rickyricko302(https://github.com/rickyricko302)
