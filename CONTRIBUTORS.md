@@ -26,7 +26,7 @@
 #### Name: Ricky V
 - Place: Colomadu, Jawa Tengah, Indonesia.
 - Bio: Student in SMKN 5 Surakarta.
-- GitHub: [rickyricko302(https://github.com/rickyricko302)
+- GitHub: [rickyricko302](https://github.com/rickyricko302)
 
 #### Name: Mahdi
  - Place: Bekasi, Indonesia
