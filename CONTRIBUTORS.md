@@ -15,7 +15,7 @@
  - GitHub: [iamheru](https://github.com/iamheru)
 
 
-#### Name: Hafiyan
+#### Name: City Hunter
  - Place: Semarang, Indonesia
  - Bio: Networking Engineering. - 
  - GitHub: [cityhunter](https://github.com/cityhunterzinu)
@@ -24,8 +24,20 @@
  - Place: Semarang, Indonesia
  - Bio: Developer. -
  - GitHub: [kankuu](https://github.com/kankuu)
+
  
 #### Name: Mahdi
  - Place: Bekasi, Indonesia
  - Bio: Firmware Egineer and Student
  - GitHub: [oracl4](https://github.com/oracl4/)
+
+#### Name: Agung Budi Miantoro
+ - Place: Indonesia, Indonesia
+ - Bio: College Student. -
+ - GitHub: [agungbudimiantoro](https://github.com/agungbudimiantoro)
+
+ #### Name: Niya
+ - Place: Semarang, Indonesia
+ - Bio: IT Engineering. -
+ - GitHub: [niya](https://github.com/alhambraniya)
+
