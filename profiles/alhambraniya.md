@@ -1,19 +1,19 @@
-# City Hunter
+# Alhambra Niya
 ### Location
 
 Semarang, Jawa tengah, Indonesia
 
 ### Academics
 
-- Graduated from S1 Unisbank 
+- Graduated from D3 Polines
 
 ### Interests
 
-- Mobile Legend.
+- Travelling.
 
 ### Development
 
-- Network Egineering.
+- IT Egineering.
 
 ### Projects
 
@@ -21,5 +21,5 @@ Semarang, Jawa tengah, Indonesia
 
 ### Profile Link
 
-[cityhunter](https://github.com/cityhunterzinu)
+[niya](https://github.com/alhambraniya)
 
