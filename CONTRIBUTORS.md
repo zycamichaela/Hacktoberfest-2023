@@ -1,11 +1,11 @@
 #### Name: Zyca
  - Place: Semarang, Indonesia
- - Bio: Networking Engineering. - 
+ - Bio: Networking Engineering. -
  - GitHub: [zyca](https://github.com/zycamichaela)
 
 #### Name: Chad P. Wilson
  - Place: Tangerang, Indonesia
- - Bio: Junior Frontend Devs. - 
+ - Bio: Junior Frontend Devs. -
  - GitHub: [syouryuumaru](https://github.com/syouryuumaru)
 
  #### Name: Heru Hermawan
@@ -15,9 +15,9 @@
 
 #### Name: City Hunter
  - Place: Semarang, Indonesia
- - Bio: Networking Engineering. - 
+ - Bio: Networking Engineering. -
  - GitHub: [cityhunter](https://github.com/cityhunterzinu)
- 
+
  #### Name: Abas
  - Place: Semarang, Indonesia
  - Bio: Developer. -
@@ -43,3 +43,7 @@
  - Bio: IT Engineering. -
  - GitHub: [niya](https://github.com/alhambraniya)
 
+ #### Name: Muhammad Farras Rayhand
+- Place: Samarinda, Kalimantan Timur, Indonesia
+- Bio: College Student. -
+- GitHub: [farrasrayhand](https://github.com/farrasrayhand)
