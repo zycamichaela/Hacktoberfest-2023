@@ -63,4 +63,8 @@
  - Bio: College Student, FullStack Dev. -
  - GitHub: [saipul](https://github.com/saifoelloh)
 
+#### Name: [Dimas Wihandono](https://github.com/daimessdn)
+- Place: Bandung, Jawa Barat, Indonesia
+- Bio: Just a college student (and also IT enthusiast)
+- GitHub: [daimessdn](https://github.com/daimessdn)
 
