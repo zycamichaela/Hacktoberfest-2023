@@ -57,3 +57,10 @@
 - Place: Kediri, Indonesia
 - Bio: IT Student.
 - GitHub: [aryarfani](https://github.com/aryarfani)
+
+ #### Name: Saipul
+ - Place: Semarang, Indonesia
+ - Bio: College Student, FullStack Dev. -
+ - GitHub: [saipul](https://github.com/saifoelloh)
+
+
