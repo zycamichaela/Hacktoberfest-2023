@@ -19,14 +19,15 @@ Pilih dan Selesaikan tasknya, buat pull request untuk pekerjaanmu dan tunggu unt
 * Pertama, Jalankan Fork repository dulu (Klik Fork Button di pojok kanan atas, lalu klik Profile Imagemu.)
 * Lalu, Clone forknya pada masing - masing local machine
 
-```markdown
+```bash
 git clone https://github.com/your-username/Hacktoberfest-2020.git
 ```
 
 * Membuat branch
 
-```markdown
-Change directory ke Hacktoberfest-2020
+```bash
+# Change directory ke Hacktoberfest-2020
+cd Hacktoberfest-2020
 git checkout -b branch-name
 ```
 
@@ -89,7 +90,7 @@ berikan nama file seperti ini `hello_world_yourusername.xx`. atau, `hello_world_
 
 * Commit dan push
 
-```markdown
+```bash
 git add .
 git commit -m 'Add it "hacktoberfest"'
 git push origin branch-name
