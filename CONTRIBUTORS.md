@@ -43,3 +43,8 @@
  - Bio: IT Engineering. -
  - GitHub: [niya](https://github.com/alhambraniya)
 
+ #### Name: Saipul
+ - Place: Semarang, Indonesia
+ - Bio: College Student, FullStack Dev. -
+ - GitHub: [saipul](https://github.com/saifoelloh)
+
