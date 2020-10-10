@@ -63,4 +63,8 @@
  - Bio: College Student, FullStack Dev. -
  - GitHub: [saipul](https://github.com/saifoelloh)
 
+#### Name: Leonanta Pramudya Kusuma
+- Place: Jepara, Jawa Tengah, Indonesia
+- Bio: Junior Web Developer?
+- GitHub: [leoprananta](https://github.com/leoprananta)
 
