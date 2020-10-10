@@ -62,5 +62,10 @@
  - Place: Semarang, Indonesia
  - Bio: College Student, FullStack Dev. -
  - GitHub: [saipul](https://github.com/saifoelloh)
+ 
+ #### Name: Divetri
+ - Place: Jepara, Indonesia
+ - Bio: College Student, Thesis fighter
+ - GitHub: [divetri](https://github.com/divetri)
 
 
