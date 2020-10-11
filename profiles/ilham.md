@@ -12,6 +12,7 @@ Jambi, Indonesia
 - Arch Linux
 - Cloud
 - Linux Administrator
+- openstack
 
 ### Development
 
