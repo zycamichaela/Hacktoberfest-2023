@@ -58,9 +58,14 @@
 - Bio: IT Student.
 - GitHub: [aryarfani](https://github.com/aryarfani)
 
- #### Name: Saipul
- - Place: Semarang, Indonesia
- - Bio: College Student, FullStack Dev. -
- - GitHub: [saipul](https://github.com/saifoelloh)
+#### Name: Saipul
 
+- Place: Semarang, Indonesia
+- Bio: College Student, FullStack Dev. -
+- GitHub: [saipul](https://github.com/saifoelloh)
 
+#### Name: Adi Purnomo
+
+- Place: Purwokerto, Indonesia
+- Bio: College Student, Front End Developer, Network Engineering, Freelancer
+- GitHub: [medival](https://github.com/medival)
