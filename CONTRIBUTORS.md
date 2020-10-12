@@ -63,4 +63,9 @@
  - Bio: College Student, FullStack Dev. -
  - GitHub: [saipul](https://github.com/saifoelloh)
 
+#### Name: FebrianS Putra
+
+- Place: Medan, Indonesia
+- Bio: College Student
+- GitHub: [FebrianS Putra](https://github.com/Putra-febriansyh4646)
 
