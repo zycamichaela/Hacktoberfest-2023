@@ -52,6 +52,12 @@
 - Bio: IT Engineering. -
 - GitHub: [niya](https://github.com/alhambraniya)
 
+#### Name: Arisandi
+
+- Place: Jakarta, Indonesia
+- Bio: Java Developer.
+- GitHub: [arisandi](https://github.com/sandi-aris)
+
 #### Name: Ary
 
 - Place: Kediri, Indonesia
