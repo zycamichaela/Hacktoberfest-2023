@@ -63,4 +63,7 @@
  - Bio: College Student, FullStack Dev. -
  - GitHub: [saipul](https://github.com/saifoelloh)
 
-
+#### Name: Wahyu
+- Place: Denpasar, Bali, Indonesia
+- Bio: Udayana Information Technology College Student
+- GitHub: [Wahyu.](https://github.com/Whyu9-9)
