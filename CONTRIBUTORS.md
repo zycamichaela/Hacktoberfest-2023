@@ -59,13 +59,34 @@
 - GitHub: [aryarfani](https://github.com/aryarfani)
 
  #### Name: Saipul
+ 
  - Place: Semarang, Indonesia
  - Bio: College Student, FullStack Dev. -
  - GitHub: [saipul](https://github.com/saifoelloh)
+
 
 #### Name: FebrianS Putra
 
 - Place: Medan, Indonesia
 - Bio: College Student
 - GitHub: [FebrianS Putra](https://github.com/Putra-febriansyh4646)
+
+#### Name: Leonanta Pramudya Kusuma
+
+- Place: Jepara, Jawa Tengah, Indonesia
+- Bio: Junior Web Developer?
+- GitHub: [leoprananta](https://github.com/leoprananta)
+ 
+ #### Name: Divetri
+ 
+ - Place: Jepara, Indonesia
+ - Bio: College Student, Thesis fighter
+ - GitHub: [divetri](https://github.com/divetri)
+
+ #### Name: Muhammad Farras Rayhand
+ 
+- Place: Samarinda, Kalimantan Timur, Indonesia
+- Bio: College Student. -
+
+
 
