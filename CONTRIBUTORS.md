@@ -62,5 +62,8 @@
  - Place: Semarang, Indonesia
  - Bio: College Student, FullStack Dev. -
  - GitHub: [saipul](https://github.com/saifoelloh)
-
-
+ 
+ #### Name: Muhammad Farras Rayhand
+- Place: Samarinda, Kalimantan Timur, Indonesia
+- Bio: College Student. -
+- GitHub: [farrasrayhand](https://github.com/farrasrayhand)
