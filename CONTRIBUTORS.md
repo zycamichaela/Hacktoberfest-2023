@@ -68,4 +68,8 @@
  - Bio: College Student, Thesis fighter
  - GitHub: [divetri](https://github.com/divetri)
 
+ #### Name: Muhammad Farras Rayhand
+- Place: Samarinda, Kalimantan Timur, Indonesia
+- Bio: College Student. -
+- GitHub: [farrasrayhand](https://github.com/farrasrayhand)
 
