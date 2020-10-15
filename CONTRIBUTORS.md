@@ -63,4 +63,9 @@
  - Bio: College Student, FullStack Dev. -
  - GitHub: [saipul](https://github.com/saifoelloh)
 
+#### Name: fahmi ady
+ - Place: Lamongan, Indonesia
+ - Bio: college student,Junior Frontend Devs. -
+ - GitHub: [fahmiady11](https://github.com/Fahmiady11)
+
 
