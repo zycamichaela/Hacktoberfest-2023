@@ -81,4 +81,8 @@
 - Place: Samarinda, Kalimantan Timur, Indonesia
 - Bio: College Student. -
 
+#### Name: Jeffry Gunawan
 
+- Place: Surabaya, Indonesia
+- Bio: IT Student. -
+- GitHub: [jeffrywu28](https://github.com/jeffrywu28)
