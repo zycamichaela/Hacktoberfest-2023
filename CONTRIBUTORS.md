@@ -81,4 +81,10 @@
 - Place: Samarinda, Kalimantan Timur, Indonesia
 - Bio: College Student. -
 
+#### Name: Muhammad Farras Rayhand
+ 
+- Place: Cirebon, Jawa Barat, Indonesia
+- Bio: College Student. -
+- GitHub: [EmpalGentong](https:/github.com/empalgentong)
+
 
