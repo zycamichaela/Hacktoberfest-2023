@@ -58,7 +58,7 @@
 - Bio: IT Student.
 - GitHub: [aryarfani](https://github.com/aryarfani)
 
- #### Name: Saipul
+#### Name: Saipul
  
  - Place: Semarang, Indonesia
  - Bio: College Student, FullStack Dev. -
@@ -70,7 +70,7 @@
 - Bio: Junior Web Developer?
 - GitHub: [leoprananta](https://github.com/leoprananta)
  
- #### Name: Divetri
+#### Name: Divetri
  
  - Place: Jepara, Indonesia
  - Bio: College Student, Thesis fighter
@@ -81,4 +81,8 @@
 - Place: Samarinda, Kalimantan Timur, Indonesia
 - Bio: College Student. -
 
-
+#### Name: Akhid Yanuar A.F
+ 
+ - Place: Sleman, Yogyakarta, Indonesia
+ - Bio: IT Student. -
+ - GitHub: [Akhid Yanuar A.F](https://github.com/yanuarakhid)
