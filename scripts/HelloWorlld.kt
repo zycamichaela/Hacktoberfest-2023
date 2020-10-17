@@ -3,6 +3,7 @@
 // AUTHOR: Lucky Sopyantoro
 // GITHUB: https://github.com/luckysopyantoro
 
-fun main(args: Array<String>){
-    println("Hello, World!")
+
+fun main(args: Array<String>){  
+    println("HelloWorld")
 }
