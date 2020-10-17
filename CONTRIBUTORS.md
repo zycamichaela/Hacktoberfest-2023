@@ -81,4 +81,8 @@
 - Place: Samarinda, Kalimantan Timur, Indonesia
 - Bio: College Student. -
 
+#### Name: M Yusril
 
+- Place: Jakarta Pusat, Indonesia.
+- Bio: Student in SMK Tamansiswa 2 Jakarta.
+- GitHub: [shansekai](https://github.com/shansekai)
