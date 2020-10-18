@@ -81,4 +81,9 @@
 - Place: Samarinda, Kalimantan Timur, Indonesia
 - Bio: College Student. -
 
+#### Name: FAIZ NURULLAH
+ 
+- Place: CIREBON, JAWA BARAT, INDONESIA
+- Bio: JUNIOR CONSTRUCT DEVELOPER
+- Age: 16 Year old
 
