@@ -79,6 +79,13 @@
  #### Name: Muhammad Farras Rayhand
  
 - Place: Samarinda, Kalimantan Timur, Indonesia
-- Bio: College Student. -
+- Bio: College Student.
+
+#### Name: Rizky Ferdi Nugraha
+
+- Place: Karawang, Indonesia
+- Bio: Junior Web Dev.
+- GitHub: [rcmiryad123](https://github.com/rcmiryad123)
+
 
 
