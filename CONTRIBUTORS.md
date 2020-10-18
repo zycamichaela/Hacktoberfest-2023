@@ -81,4 +81,9 @@
 - Place: Samarinda, Kalimantan Timur, Indonesia
 - Bio: College Student. -
 
+ #### Name: Nuclear
+ 
+ - Place: Bihar, India
+ - Bio: College Student, Javscript & Python Dev
+ - GitHub: [nucle4r](https://github.com/nucle4r)
 
