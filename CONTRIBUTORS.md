@@ -81,4 +81,10 @@
 - Place: Samarinda, Kalimantan Timur, Indonesia
 - Bio: College Student. -
 
+#### Name: Reza Alamsyah Putra Doviana
+
+- Place: Sukabumi, Jawa Barat, Indonesia
+- Bio: College student in Muhammadiyah Sukabumi University
+- GitHub: [Reza Alamsyah](https://github.com/Reas-19)
+
 
