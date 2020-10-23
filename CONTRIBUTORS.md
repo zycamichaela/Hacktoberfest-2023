@@ -81,4 +81,9 @@
 - Place: Samarinda, Kalimantan Timur, Indonesia
 - Bio: College Student. -
 
+ #### Name: Jait Ramadandi Jeke
+ 
+ - Place: Dompu, Indonesia
+ - Bio: College Student
+ - GitHub: [fillateo](https://github.com/fillateo)
 
