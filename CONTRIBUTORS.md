@@ -82,6 +82,13 @@
  - Bio: College Student, FullStack Dev. -
  - GitHub: [saipul](https://github.com/saifoelloh)
 
+
+#### Name: FebrianS Putra
+
+- Place: Medan, Indonesia
+- Bio: College Student
+- GitHub: [FebrianS Putra](https://github.com/Putra-febriansyh4646)
+
 #### Name: Leonanta Pramudya Kusuma
 
 - Place: Jepara, Jawa Tengah, Indonesia
@@ -99,9 +106,9 @@
 - Place: Samarinda, Kalimantan Timur, Indonesia
 - Bio: College Student. -
 
-
 ### Name: Ilham
  - place: Jambi,Indonesia
  - Bio : IS Student,Localhost Sysadmin
  - Github : [ilham](https://github.com/IlhamSetiawan)
+
 
