@@ -69,3 +69,33 @@
 - Place: Purwokerto, Indonesia
 - Bio: College Student, Front End Developer, Network Engineering, Freelancer
 - GitHub: [medival](https://github.com/medival)
+
+ #### Name: Saipul
+ 
+ - Place: Semarang, Indonesia
+ - Bio: College Student, FullStack Dev. -
+ - GitHub: [saipul](https://github.com/saifoelloh)
+
+#### Name: Leonanta Pramudya Kusuma
+
+- Place: Jepara, Jawa Tengah, Indonesia
+- Bio: Junior Web Developer?
+- GitHub: [leoprananta](https://github.com/leoprananta)
+ 
+ #### Name: Divetri
+ 
+ - Place: Jepara, Indonesia
+ - Bio: College Student, Thesis fighter
+ - GitHub: [divetri](https://github.com/divetri)
+
+ #### Name: Muhammad Farras Rayhand
+ 
+- Place: Samarinda, Kalimantan Timur, Indonesia
+- Bio: College Student. -
+
+
+### Name: Ilham
+ - place: Jambi,Indonesia
+ - Bio : IS Student,Localhost Sysadmin
+ - Github : [ilham](https://github.com/IlhamSetiawan)
+
