@@ -52,11 +52,29 @@
 - Bio: IT Engineering. -
 - GitHub: [niya](https://github.com/alhambraniya)
 
+#### Name: Arisandi
+
+- Place: Jakarta, Indonesia
+- Bio: Java Developer.
+- GitHub: [arisandi](https://github.com/sandi-aris)
+
 #### Name: Ary
 
 - Place: Kediri, Indonesia
 - Bio: IT Student.
 - GitHub: [aryarfani](https://github.com/aryarfani)
+
+#### Name: Saipul
+
+- Place: Semarang, Indonesia
+- Bio: College Student, FullStack Dev. -
+- GitHub: [saipul](https://github.com/saifoelloh)
+
+#### Name: Adi Purnomo
+
+- Place: Purwokerto, Indonesia
+- Bio: College Student, Front End Developer, Network Engineering, Freelancer
+- GitHub: [medival](https://github.com/medival)
 
  #### Name: Saipul
  
@@ -88,5 +106,9 @@
 - Place: Samarinda, Kalimantan Timur, Indonesia
 - Bio: College Student. -
 
+### Name: Ilham
+ - place: Jambi,Indonesia
+ - Bio : IS Student,Localhost Sysadmin
+ - Github : [ilham](https://github.com/IlhamSetiawan)
 
 
