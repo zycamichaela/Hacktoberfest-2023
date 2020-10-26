@@ -115,6 +115,14 @@
 - Place: Samarinda, Kalimantan Timur, Indonesia
 - Bio: College Student. -
 
+
+#### Name: Jeffry Gunawan
+
+- Place: Surabaya, Indonesia
+- Bio: IT Student. -
+- GitHub: [jeffrywu28](https://github.com/jeffrywu28)
+
+
 #### Name: Muhammad Farras Rayhand
  
 - Place: Cirebon, Jawa Barat, Indonesia
@@ -125,6 +133,4 @@
  - place: Jambi,Indonesia
  - Bio : IS Student,Localhost Sysadmin
  - Github : [ilham](https://github.com/IlhamSetiawan)
-
-
 
