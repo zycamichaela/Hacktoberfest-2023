@@ -64,12 +64,6 @@
 - Bio: IT Student.
 - GitHub: [aryarfani](https://github.com/aryarfani)
 
-#### Name: Saipul
-
-- Place: Semarang, Indonesia
-- Bio: College Student, FullStack Dev. -
-- GitHub: [saipul](https://github.com/saifoelloh)
-
 #### Name: Adi Purnomo
 
 - Place: Purwokerto, Indonesia
@@ -77,7 +71,7 @@
 - GitHub: [medival](https://github.com/medival)
 
  #### Name: Saipul
- 
+
  - Place: Semarang, Indonesia
  - Bio: College Student, FullStack Dev. -
  - GitHub: [saipul](https://github.com/saifoelloh)
@@ -86,7 +80,7 @@
  - Place: Lamongan, Indonesia
  - Bio: college student,Junior Frontend Devs. -
  - GitHub: [fahmiady11](https://github.com/Fahmiady11)
-=======
+
 #### Name: Wahyu
 - Place: Denpasar, Bali, Indonesia
 - Bio: Udayana Information Technology College Student
@@ -104,7 +98,7 @@
 - Bio: Junior Web Developer?
 - GitHub: [leoprananta](https://github.com/leoprananta)
  
- #### Name: Divetri
+#### Name: Divetri
  
  - Place: Jepara, Indonesia
  - Bio: College Student, Thesis fighter
@@ -115,6 +109,12 @@
 - Place: Samarinda, Kalimantan Timur, Indonesia
 - Bio: College Student. -
 
+
+#### Name: Akhid Yanuar A.F
+ 
+ - Place: Sleman, Yogyakarta, Indonesia
+ - Bio: IT Student. -
+ - GitHub: [Akhid Yanuar A.F](https://github.com/yanuarakhid)
 
 #### Name: Jeffry Gunawan
 
