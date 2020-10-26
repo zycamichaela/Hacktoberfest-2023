@@ -82,6 +82,11 @@
  - Bio: College Student, FullStack Dev. -
  - GitHub: [saipul](https://github.com/saifoelloh)
 
+#### Name: fahmi ady
+ - Place: Lamongan, Indonesia
+ - Bio: college student,Junior Frontend Devs. -
+ - GitHub: [fahmiady11](https://github.com/Fahmiady11)
+=======
 #### Name: Wahyu
 - Place: Denpasar, Bali, Indonesia
 - Bio: Udayana Information Technology College Student
@@ -114,5 +119,6 @@
  - place: Jambi,Indonesia
  - Bio : IS Student,Localhost Sysadmin
  - Github : [ilham](https://github.com/IlhamSetiawan)
+
 
 
