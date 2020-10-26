@@ -52,17 +52,51 @@
 - Bio: IT Engineering. -
 - GitHub: [niya](https://github.com/alhambraniya)
 
+#### Name: Arisandi
+
+- Place: Jakarta, Indonesia
+- Bio: Java Developer.
+- GitHub: [arisandi](https://github.com/sandi-aris)
+
 #### Name: Ary
 
 - Place: Kediri, Indonesia
 - Bio: IT Student.
 - GitHub: [aryarfani](https://github.com/aryarfani)
 
+#### Name: Saipul
+
+- Place: Semarang, Indonesia
+- Bio: College Student, FullStack Dev. -
+- GitHub: [saipul](https://github.com/saifoelloh)
+
+#### Name: Adi Purnomo
+
+- Place: Purwokerto, Indonesia
+- Bio: College Student, Front End Developer, Network Engineering, Freelancer
+- GitHub: [medival](https://github.com/medival)
+
  #### Name: Saipul
  
  - Place: Semarang, Indonesia
  - Bio: College Student, FullStack Dev. -
  - GitHub: [saipul](https://github.com/saifoelloh)
+
+#### Name: fahmi ady
+ - Place: Lamongan, Indonesia
+ - Bio: college student,Junior Frontend Devs. -
+ - GitHub: [fahmiady11](https://github.com/Fahmiady11)
+=======
+#### Name: Wahyu
+- Place: Denpasar, Bali, Indonesia
+- Bio: Udayana Information Technology College Student
+- GitHub: [Wahyu.](https://github.com/Whyu9-9)
+
+#### Name: FebrianS Putra
+
+- Place: Medan, Indonesia
+- Bio: College Student
+- GitHub: [FebrianS Putra](https://github.com/Putra-febriansyh4646)
 
 #### Name: Leonanta Pramudya Kusuma
 
@@ -81,8 +115,22 @@
 - Place: Samarinda, Kalimantan Timur, Indonesia
 - Bio: College Student. -
 
+
 #### Name: Jeffry Gunawan
 
 - Place: Surabaya, Indonesia
 - Bio: IT Student. -
 - GitHub: [jeffrywu28](https://github.com/jeffrywu28)
+
+
+#### Name: Muhammad Farras Rayhand
+ 
+- Place: Cirebon, Jawa Barat, Indonesia
+- Bio: College Student. -
+- GitHub: [EmpalGentong](https:/github.com/empalgentong)
+
+### Name: Ilham
+ - place: Jambi,Indonesia
+ - Bio : IS Student,Localhost Sysadmin
+ - Github : [ilham](https://github.com/IlhamSetiawan)
+
