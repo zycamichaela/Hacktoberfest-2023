@@ -150,3 +150,7 @@
  - Github : [ilham](https://github.com/IlhamSetiawan)
 
 
+#### Name: [Heri Prastio](https://github.com/heriprastiio)
+- Place: Duri Pulo, Jakarta Pusat, Indonesia
+- Bio: Fresh Graduate
+- GitHub: [heriprastiio](https://github.com/heriprastiio)
