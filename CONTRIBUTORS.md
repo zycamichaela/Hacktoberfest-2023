@@ -1,3 +1,8 @@
+#### Name: Rian
+- Place: Bogor, Indonesia
+- Bio: I love learning new things and sharing knowledge to communities.
+- GithubL [rianputrarama](https://github.com/rianputrarama)
+
 #### Name: Zyca
 
 - Place: Semarang, Indonesia
