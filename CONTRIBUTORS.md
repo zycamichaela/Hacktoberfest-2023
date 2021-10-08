@@ -149,4 +149,7 @@
  - Bio : IS Student,Localhost Sysadmin
  - Github : [ilham](https://github.com/IlhamSetiawan)
 
-
+### Name: Salim
+ - place: Medan, Sumatera Utara, Indonesia
+ - Bio : IT Student
+ - Github : [Salimaja](https://github.com/Salimaja)
