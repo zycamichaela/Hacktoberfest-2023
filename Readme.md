@@ -1,4 +1,4 @@
-# 💻WELCOME TO HACKTOBERFEST 2020!💻
+# 💻WELCOME TO HACKTOBERFEST 2021!💻
 #
 ## Halo Teman - teman! ,
 ## Apa itu Hacktoberfest?
@@ -20,13 +20,13 @@ Pilih dan Selesaikan tasknya, buat pull request untuk pekerjaanmu dan tunggu unt
 * Lalu, Clone forknya pada masing - masing local machine
 
 ```markdown
-git clone https://github.com/your-username/Hacktoberfest-2020.git
+git clone https://github.com/your-username/Hacktoberfest-2021.git
 ```
 
 * Membuat branch
 
 ```markdown
-Change directory ke Hacktoberfest-2020
+Change directory ke Hacktoberfest-2021
 git checkout -b branch-name
 ```
 
