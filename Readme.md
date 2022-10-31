@@ -1,4 +1,4 @@
-# 💻WELCOME TO HACKTOBERFEST 2021!💻
+# 💻WELCOME TO HACKTOBERFEST 2022!💻
 #
 ## Halo Teman - teman! ,
 ## Apa itu Hacktoberfest?
@@ -26,7 +26,7 @@ git clone https://github.com/your-username/Hacktoberfest-2021.git
 * Membuat branch
 
 ```markdown
-Change directory ke Hacktoberfest-2021
+Change directory ke Hacktoberfest-2022
 git checkout -b branch-name
 ```
 
